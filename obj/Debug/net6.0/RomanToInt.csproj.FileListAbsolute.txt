@@ -1,0 +1,15 @@
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/bin/Debug/net6.0/RomanToInt
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/bin/Debug/net6.0/RomanToInt.deps.json
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/bin/Debug/net6.0/RomanToInt.runtimeconfig.json
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/bin/Debug/net6.0/RomanToInt.dll
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/bin/Debug/net6.0/ref/RomanToInt.dll
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/bin/Debug/net6.0/RomanToInt.pdb
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/obj/Debug/net6.0/RomanToInt.csproj.AssemblyReference.cache
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/obj/Debug/net6.0/RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/obj/Debug/net6.0/RomanToInt.AssemblyInfoInputs.cache
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/obj/Debug/net6.0/RomanToInt.AssemblyInfo.cs
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/obj/Debug/net6.0/RomanToInt.csproj.CoreCompileInputs.cache
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/obj/Debug/net6.0/RomanToInt.dll
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/obj/Debug/net6.0/ref/RomanToInt.dll
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/obj/Debug/net6.0/RomanToInt.pdb
+/home/zeref/RiderProjects/Learning/RomanToInt/RomanToInt/obj/Debug/net6.0/RomanToInt.genruntimeconfig.cache
